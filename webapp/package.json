@@ -19,7 +19,7 @@
     "prop-types": "^15.7.2",
     "properties": "^1.2.1",
     "react": "^16.8.6",
-    "react-bootstrap": "^0.31.5",
+    "react-bootstrap": "^0.33.0",
     "react-datetime": "^2.16.3",
     "react-dom": "^16.8.6",
     "react-ga": "^2.6.0",
@@ -47,7 +47,7 @@
     "minimist": "^0.2.1",
     "node-sass": "^4.13.1",
     "sass-loader": "^6.0.7",
-    "style-loader": "^0.18.2",
+    "style-loader": "^0.23.0",
     "uglify-js": "^2.8.29",
     "url-loader": "^0.6.2",
     "webpack": "^2.6.1"
